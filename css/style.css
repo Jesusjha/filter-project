@@ -14,6 +14,9 @@ body {
   background: var(--mainWhite);
   color: var(--mainBlack);
 }
+.hidden{
+  display: none;
+}
 /* nav links */
 .navbar-toggler {
   outline: none !important;
